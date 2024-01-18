@@ -17,6 +17,7 @@ public class ExampleTest {
 
   /**
    * Doubles the integer passed in
+   *
    * @param x the integer to double
    * @return the doubled integer
    */

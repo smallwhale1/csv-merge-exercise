@@ -17,6 +17,5 @@ public final class Main {
     this.args = args;
   }
 
-  private void run() {
-  }
+  private void run() {}
 }

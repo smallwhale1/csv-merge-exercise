@@ -22,7 +22,8 @@ public class ExampleTest {
    * @return the doubled integer
    */
   public int doubleInteger(int x) {
-    // TODO: Partner A should implement this function by returning x + x, and Partner B should return x * 2
+    // TODO: Partner A should implement this function by returning x + x, and Partner B should
+    // return x * 2
     return 0;
   }
 
